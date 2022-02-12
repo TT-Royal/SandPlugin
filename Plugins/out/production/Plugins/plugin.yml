@@ -1,0 +1,6 @@
+name: SeaPlugin
+main: fr.ttroyal.seaplugin.NukkitMain
+version: "0.1"
+api: ["1.0.0"]
+description: Plugin pour le serveur SeaCraft
+author: TTRoyal
